@@ -19,7 +19,7 @@ The entire system runs with **Docker Compose**.
 
 ## 🚀 How to Run
 ### **1️⃣ Clone the Repository**
-```sh
+``cd`sh
 git clone https://github.com/sajosam/ecommerce-microservices.git
 cd ecommerce-microservices
 ```
@@ -72,7 +72,7 @@ curl http://localhost:5000/products/1
 
 ### **Get All User Data in a Single JSON**
 ```sh
-curl http://localhost:5000/all-details/1
+curl 
 ```
 
 ---
